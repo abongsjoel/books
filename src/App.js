@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-import "./index.css";
 import BookCreate from "./components/BookCreate";
 
 function App() {
